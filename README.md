@@ -42,3 +42,8 @@ https://github.com/ImMacky/mk-GiftBox
 ## Planned Features 
 - Item Requirement to steal from MailBoxes. 
 - Add inventory popup box to show items taken from mail
+
+
+## PREVIEW ##
+
+https://streamable.com/eg9pwb
