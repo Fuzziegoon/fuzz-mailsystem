@@ -8,11 +8,12 @@ I would consider this an ultra fork, and it was my first go at "coding" <3
 
 
 ## Features
-- You can choose item to steal mail
+- You can choose item to steal from mail
 - Reward amounts are configurable. <br>
 - Configurable Theft cooldown time. <br>
 - Configurable police call chance. <br>
 - Players cannot steal from the same mailboxes again & again (No Spamming). <br> <br>
+- Configurable used items for events
 
 # Dependencies #
 01. qb-core - https://github.com/qbcore-framework/qb-core <br>
