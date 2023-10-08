@@ -66,8 +66,8 @@ function ProgressBar(ent)
         disableMouse = false,
         disableCombat = true,
     }, {
-        animDict = 'anim@amb@clubhouse@tutorial@bkr_tut_ig3@',
-        anim = 'machinic_loop_mechandplayer',
+        animDict = 'anim@gangops@facility@servers@',
+        anim = 'hotwire',
         flags = 1,
     }, {}, {}, function()
         if not NetworkGetEntityIsNetworked(ent) then NetworkRegisterEntityAsNetworked(ent) end
